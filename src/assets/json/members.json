@@ -1,0 +1,37 @@
+[
+        {
+           "codigo":1,
+           "nombre":"Cristian Mauricio Navarro León",
+           "descripcion":"Institucion educativa: Universidad Militar Nueva Granada, Edad: 23 años, Pasatiempos: Deporte y videojuegos.",
+           "rol":"Developer Frontend",
+           "image":"https://images.unsplash.com/photo-1569003339405-ea396a5a8a90?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8c3VwZXJoZXJvfGVufDB8fDB8&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+           "codigo":2,
+           "nombre":"William Fernando Prieto Velandia",
+           "descripcion":"Profesión: Ingeniero químico Institución educativa: Universidad Industrial de Santander Edad: 30 años Pasatiempo: Lectura y videojuegos Interesado en ampliar los conocimientos en programación para impulsar las industrias de mi región",
+           "rol":"Tester",
+           "image":"https://images.unsplash.com/photo-1534809027769-b00d750a6bac?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8c3VwZXJoZXJvfGVufDB8fDB8&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+           "codigo":3,
+           "nombre":"Henry García Ospina",
+           "descripcion":"Una de mis pasiones es conocer sobre tecnología, especificamente sobre desarrollo de softwarte, me encuentro finalizando la ingenería de sistemas en el ITM de Medellín, me gusta oir música clásica, baladas y música americana de los 60s, 70s y 80s. ",
+           "rol":"Developer Backend",
+           "image":"https://images.unsplash.com/photo-1531259683007-016a7b628fc3?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c3VwZXJoZXJvfGVufDB8fDB8&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+           "codigo":4,
+           "nombre":"Oscar Fabian Contreras Navas",
+           "descripcion":"Ingeniero químico de la Universidad Industrial de Santander. 28 años. Con afinidad e interés por la simulación computacional en el campo ingenieril. Bilingüe, Inglés y Español, actualmente estudiando Francés.",
+           "rol":"Software Architect",
+           "image":"https://images.unsplash.com/photo-1561149877-84d268ba65b8?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8OXx8c3VwZXJoZXJvfGVufDB8fDB8&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+           "codigo":5,
+           "nombre":"Julio Nel Vásquez Vanegas",
+           "descripcion":"  Tengo 22 años, desde joven siempre me ha llamado la atención la tecnología. Mis pasiones son la electrónica y la programación. Mis pasatiempos son la lectura y el deporte.",
+           "rol":"Software Analyst",
+           "image":"https://images.unsplash.com/photo-1535648451240-482a0bbd6e02?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NTF8fHN1cGVyaGVyb3xlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        }
+     ]
